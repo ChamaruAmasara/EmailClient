@@ -10,7 +10,7 @@ public class WriteToFile {
     public WriteToFile(Official officialContact){
         Writer("clientList.txt","Official: "+officialContact.getName()+","+officialContact.getEmail()+","+officialContact.getDesignation());
     }
-    public WriteToFile(Office_friend officeFriendContact){
+    public WriteToFile(OfficeFriend officeFriendContact){
         DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd");
         Date birthday=officeFriendContact.getBirthday();
         Writer("clientList.txt", String.format("Office_friend: " + officeFriendContact.getName() + "," + officeFriendContact.getEmail() + "," + officeFriendContact.getDesignation() + ","+dateFormat.format(birthday)));

@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb3f5ff0-1d29-48c3-99f4-3ad1de95b37a" name="Changes" comment="Implemented option 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmailClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Office_friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Official.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Personal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Recipient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/WriteToFile.java" afterDir="false" />
+    <list default="true" id="cb3f5ff0-1d29-48c3-99f4-3ad1de95b37a" name="Changes" comment="Almost Final">
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/SendMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EmailClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chamaruamasara/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chamaruamasara/Office_friend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamaruamasara/OfficeFriend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chamaruamasara/Recipient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Recipient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chamaruamasara/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamaruamasara/WriteToFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CsU5ks52L0sJ1VyGDAkCzTQ7HC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,12 +46,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mailt/Downloads/javax.mail.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mailt/Downloads/javax.activation-1.2.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,8 +69,19 @@
       <workItem from="1659637997778" duration="5941000" />
       <workItem from="1659685176874" duration="10147000" />
       <workItem from="1659699505714" duration="2298000" />
-      <workItem from="1659705151203" duration="1030000" />
+      <workItem from="1659705151203" duration="8024000" />
+      <workItem from="1659730488928" duration="18078000" />
+      <workItem from="1659812432625" duration="7106000" />
+      <workItem from="1659821227912" duration="7990000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented option 1">
+      <created>1659706932637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659706932637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented option 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented option 1" />
+    <MESSAGE value="Almost Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost Final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

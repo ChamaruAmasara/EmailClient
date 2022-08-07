@@ -5,10 +5,10 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 import java.text.DateFormat;
 
-public class Office_friend extends Official{
+public class OfficeFriend extends Official{
     private Date birthday;
 
-    public Office_friend(String name,String email,String designation,String birthday){
+    public OfficeFriend(String name, String email, String designation, String birthday){
         super(name,email,designation);
         try {
             setBirthday(birthday);
