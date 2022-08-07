@@ -1,0 +1,9 @@
+Office_friend: asda,asda@dfa.saa,asda,2000/10/21
+Official: asdas,awda@sdf.cada,asda
+Official: aaafa,sda@zdscasda,fsfs
+Official: dfsdf,asda@sfsfs.as,afaa
+Personal: chamaru,askdjadk,chamaru@chamaru.me,2022/08/07
+Personal: adada,sasdavs,asda@chamaru.me,2022/08/07
+Office_friend: aasda,asda@chamaru.me,asda,2022/09/01
+Office_friend: aasda,asda@chamaru.me,asda,2022/08/07
+Personal: chamaru,Chamaru,mailtochamaru@gmail.com,2000/08/07
