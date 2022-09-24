@@ -36,7 +36,8 @@ public class SendMail {
             message.setFrom(new InternetAddress(fromAddress, fromName));
             message.addRecipient(Message.RecipientType.TO, new InternetAddress(to));
             message.setSubject(emailMessage.subject());
-            message.setText(emailMessage.body());
+            message.setContent(emailMessage.body(), "text/html; charset=utf-8");
+            //message.setText();
 
             //send the message
             Transport.send(message);

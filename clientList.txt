@@ -7,3 +7,6 @@ Personal: adada,sasdavs,asda@chamaru.me,2022/08/07
 Office_friend: aasda,asda@chamaru.me,asda,2022/09/01
 Office_friend: aasda,asda@chamaru.me,asda,2022/08/07
 Personal: chamaru,Chamaru,mailtochamaru@gmail.com,2000/08/07
+Personal: Chamaru,nadun baba,mails2ned@gmail.com,2000/08/09
+Personal: Samith,Samith lokka,samithkarunathilake@gmail.com,2001/01/13
+Personal: chamaru,chamaru,mailtochamaru@gmail.com,2000/08/13

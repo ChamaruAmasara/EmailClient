@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3f5ff0-1d29-48c3-99f4-3ad1de95b37a" name="Changes" comment="Almost Final">
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/AddClientToClientList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/CheckWhetherProgramShouldRunAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/CountAllRecipients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/DeserializeEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Execute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/GetUserOptionMainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/ListAllEmailsOnSpecificDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/PrintAllBirthdaysOnSpecificDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/ReturnCurrentDateAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/SendBirthdayWishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/SendBirthdayWishesStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/SendEmailViaCMD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/SerializeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/ValidateDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chamaruamasara/ValidateEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clientList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chamaruamasara/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chamaruamasara/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamaruamasara/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chamaruamasara/SendMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamaruamasara/SendMail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +59,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mailt/Downloads/javax.activation-1.2.0.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mailt/Documents/A UoM/2. Data Structures and Algorithms/HackerRankCompetition/City Connections.cpp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -49,6 +69,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.chamaruamasara" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chamaruamasara.Main" />
+      <module name="EmailClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chamaruamasara.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,6 +106,22 @@
       <workItem from="1659730488928" duration="18078000" />
       <workItem from="1659812432625" duration="7106000" />
       <workItem from="1659821227912" duration="8689000" />
+      <workItem from="1659860214441" duration="5000" />
+      <workItem from="1659863386925" duration="771000" />
+      <workItem from="1659896925086" duration="842000" />
+      <workItem from="1659987945668" duration="31000" />
+      <workItem from="1660067240931" duration="1064000" />
+      <workItem from="1660073257630" duration="16000" />
+      <workItem from="1660131698661" duration="328000" />
+      <workItem from="1660210505184" duration="164000" />
+      <workItem from="1660298983197" duration="817000" />
+      <workItem from="1660299919810" duration="2515000" />
+      <workItem from="1660365354978" duration="17312000" />
+      <workItem from="1660407640593" duration="1328000" />
+      <workItem from="1660460021999" duration="1522000" />
+      <workItem from="1660485533754" duration="612000" />
+      <workItem from="1660495202952" duration="1313000" />
+      <workItem from="1663558881329" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented option 1">
       <created>1659706932637</created>
